@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\androidStudioDemo\DisableCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\androidStudioDemo\DisableCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_2933b78f377e55612893edff53eec7076409b036\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidStudioDemo\DisableCam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\androidStudioDemo\DisableCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a4380c32fad7011a14178e9a2f84aea9c482103a\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidStudioDemo\DisableCam\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\androidStudioDemo\DisableCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9a1538a7a2120817c3adb26461c250c68a48cca5\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidStudioDemo\DisableCam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7f99d65de7a3c717ad1b93ff3b583045658ab589">
+        <dex dex="D:\androidStudioDemo\DisableCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d2e5a01f48ef9cf0ea72ec7d4e22c9c4b27daf55\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidStudioDemo\DisableCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\androidStudioDemo\DisableCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d68c5856151a4b50936a8095244d134b57d64482\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\androidStudioDemo\DisableCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6d851d9a3cbbe5d1dac573180ea50da442a0ff00\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidStudioDemo\DisableCam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9b5ea91ecfbeb314f72bb5210e03224b08ca432c">
+        <dex dex="D:\androidStudioDemo\DisableCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_10510b11e369e014dad148fe9f156eea44cf3376\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidStudioDemo\DisableCam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\androidStudioDemo\DisableCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_2485c5c6c1ff9b4b7558c09be00d9a3af98098ef\classes.dex" />
+    </item>
+
+</items>
